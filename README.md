@@ -1,5 +1,5 @@
 # 42_libft
-## Project developed during the Common Core @ 42 Porto
+### Project developed during the Common Core @ 42 Porto
 
 ### Libft
 Your very first own library
